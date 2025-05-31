@@ -13,7 +13,7 @@ QueenSwarm is a Python project that leverages Particle Swarm Optimization (PSO),
 - Configurable number of iterations and swarm size based on board dimension
 ## 🖼️ Aperçu
 
-![Capture d'écran](screenshot.png)
+![Capture d'écran](https://raw.githubusercontent.com/Meriamsikini/QueenSwarm-Metaheuristic-PSO-Solver-for-N-Queens/94c85391e2d80cd39dbbc9a92d650a2a7201ec0e/Capture%20d'%C3%A9cran%202025-05-31%20223437.png)
 
 ## 🚀 Technologies utilisées
 
