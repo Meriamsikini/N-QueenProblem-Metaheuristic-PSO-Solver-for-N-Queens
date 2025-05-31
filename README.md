@@ -1,4 +1,4 @@
-# N-QueenProblem-Metaheuristic-PSO-Solver-for-N-Queens
+# QueenSwarm-Metaheuristic-PSO-Solver-for-N-Queens
 
 ## Description
 QueenSwarm is a Python project that leverages Particle Swarm Optimization (PSO), a metaheuristic algorithm inspired by the collective behavior of swarms, to solve the classic N-Queens puzzle. The algorithm efficiently searches for solutions that minimize conflicts, enabling placement of n queens on an n×n chessboard without threatening each other.
